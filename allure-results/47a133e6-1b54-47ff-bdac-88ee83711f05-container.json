@@ -1,0 +1,1 @@
+{"uuid":"47a133e6-1b54-47ff-bdac-88ee83711f05","name":"ru.pizza.tests.TestBase.logTestStart","description":"","start":1505854216321,"stop":1505854216339,"children":["2b8a1804-9a2e-4c2b-bf46-e57fe8c726e1"],"befores":[{"name":"logTestStart","status":"passed","stage":"finished","description":"","start":1505854216323,"stop":1505854216337}]}
